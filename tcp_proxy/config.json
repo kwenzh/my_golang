@@ -1,0 +1,8 @@
+{
+  "proxy_config": {
+    "8080": "https://www.baidu.com"
+  },
+  "read_deadline": 60,
+  "write_deadline": 60,
+  "buff_size": 4096
+}
